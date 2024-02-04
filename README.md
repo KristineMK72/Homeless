@@ -1,6 +1,6 @@
 # Homeless
 Homeless project
-# United States
-## Syracuse
-## Colorado Springs
-## Macon
+## United States
+### Syracuse
+### Colorado Springs
+### Macon
